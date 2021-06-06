@@ -5,6 +5,7 @@ import time
 import schedule# 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import smtplib
 
 
 # Функция получения данных курса валют
