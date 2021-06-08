@@ -9,3 +9,4 @@ Hi!
 - import schedule # Запуск заданий
 - import MIMEMultipart # Является встроенным модулем Python для отправки электронной почты
 - import MIMEText # Является встроенным модулем Python для отправки электронной почты 
+- import smtplib
